@@ -1,3 +1,13 @@
+☀ [1. What is Artificial Intelligence?](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%201/Detailed%20Notes.md#1-what-is-artificial-intelligence)<br>
+
+☀ [2. What is Machine Learning?](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%201/Detailed%20Notes.md#2-what-is-machine-learning)<br>
+
+☀ [3. What is Deep Learning?](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%201/Detailed%20Notes.md#3-what-is-deep-learning)<br>
+
+☀ [4. Understanding Neural Networks](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%201/Detailed%20Notes.md#4-understanding-neural-networks)<br>
+
+☀ [5. Machine Learning Algorithms Explained](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%201/Detailed%20Notes.md#5-ml-algorithms-explained)<br><br>
+
 # 1. What is Artificial Intelligence?
 <br>
 
@@ -1030,7 +1040,7 @@ contains<br><br>
 
 ***
 
-# 5. ML Algorithms Explained
+# 5. Machine Learning Algorithms Explained
 <br>
 
 ## Types of Machine Learning
