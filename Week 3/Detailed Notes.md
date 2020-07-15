@@ -1,10 +1,10 @@
-☀ [1. Introduction to Amazon Rekognition]()<br>
+☀ [1. Introduction to Amazon Rekognition](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%203/Detailed%20Notes.md#1-introduction-to-amazon-rekognition)<br>
 
-☀ [2. Introduction to AWS DeepLens]()<br>
+☀ [2. Introduction to AWS DeepLens](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%203/Detailed%20Notes.md#2-introduction-to-aws-deeplens)<br>
 
-☀ [3. Hands-on Rekognition — Automated Video Editing]()<br>
+☀ [3. Hands-on Rekognition — Automated Video Editing](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%203/Detailed%20Notes.md#3-hands-on-rekognition--automated-video-editing)<br>
 
-☀ [4. Deep Dive on Amazon Rekognition]()<br><br>
+☀ [4. Deep Dive on Amazon Rekognition](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%203/Detailed%20Notes.md#4-deep-dive-on-amazon-rekognition)<br><br>
 
 # 1. Introduction to Amazon Rekognition
 <br>
