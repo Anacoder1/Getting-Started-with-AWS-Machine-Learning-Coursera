@@ -1,14 +1,14 @@
-☀ [1. Introduction to Amazon SageMaker]()<br>
+☀ [1. Introduction to Amazon SageMaker](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%205/Detailed%20Notes.md#1-introduction-to-amazon-sagemaker)<br>
 
-☀ [2. Introduction to Amazon SageMaker GroundTruth]()<br>
+☀ [2. Introduction to Amazon SageMaker GroundTruth](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%205/Detailed%20Notes.md#2-introduction-to-amazon-sagemaker-groundtruth)<br>
 
-☀ [3. Introduction to Amazon SageMaker Neo]()<br>
+☀ [3. Introduction to Amazon SageMaker Neo](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%205/Detailed%20Notes.md#3-introduction-to-amazon-sagemaker-neo)<br>
 
-☀ [4. Automated Model Tuning using Amazon SageMaker]()<br>
+☀ [4. Automated Model Tuning using Amazon SageMaker](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%205/Detailed%20Notes.md#4-automated-model-tuning-using-amazon-sagemaker)<br>
 
-☀ [5. Amazon SageMaker — Object Detection on Images labeled with GroundTruth]()<br>
+☀ [5. Amazon SageMaker — Object Detection on Images labeled with GroundTruth](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%205/Detailed%20Notes.md#5-amazon-sagemaker--object-detection-on-images-labeled-with-groundtruth)<br>
 
-☀ [6. Build a text classification model with Glue and SageMaker]()<br><br>
+☀ [6. Build a text classification model with Glue and SageMaker](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%205/Detailed%20Notes.md#6-build-a-text-classification-model-with-glue-and-sagemaker)<br><br>
 
 
 # 1. Introduction to Amazon SageMaker
