@@ -1,12 +1,12 @@
-☀ [1. Introduction to Amazon Comprehend]()<br>
+☀ [1. Introduction to Amazon Comprehend](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%204/Detailed%20Notes.md#1-introduction-to-amazon-comprehend)<br>
 
-☀ [2. Introduction to Amazon Comprehend Medical]()<br>
+☀ [2. Introduction to Amazon Comprehend Medical](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%204/Detailed%20Notes.md#2-introduction-to-amazon-comprehend-medical)<br>
 
-☀ [3. Introduction to Amazon Translate]()<br>
+☀ [3. Introduction to Amazon Translate](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%204/Detailed%20Notes.md#3-introduction-to-amazon-translate)<br>
 
-☀ [4. Introduction to Amazon Transcribe]()<br>
+☀ [4. Introduction to Amazon Transcribe](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%204/Detailed%20Notes.md#4-introduction-to-amazon-transcribe)<br>
 
-☀ [5. Deep Dive with Amazon Transcribe]()<br><br>
+☀ [5. Deep Dive with Amazon Transcribe](https://github.com/Anacoder1/Getting-Started-with-AWS-Machine-Learning-Coursera/blob/master/Week%204/Detailed%20Notes.md#5-deep-dive-with-amazon-transcribe)<br><br>
 
 # 1. Introduction to Amazon Comprehend
 <br>
